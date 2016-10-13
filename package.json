@@ -1,0 +1,67 @@
+{
+  "name": "@christian-bromann/benchpress",
+  "version": "2.0.0-rc.7alpha",
+  "description": "Benchpress - a framework for e2e performance tests",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "dependencies": {
+    "@angular/core": "2.0.0-rc.7",
+    "reflect-metadata": "^0.1.2",
+    "rxjs": "5.0.0-beta.12",
+    "jpm": "1.1.4",
+    "firefox-profile": "0.4.0",
+    "selenium-webdriver": "3.0.0-beta-2"
+  },
+  "optionalDependencies": {
+    "jpm": "1.1.4",
+    "firefox-profile": "0.4.0",
+    "selenium-webdriver": "3.0.0-beta-2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular/angular.git"
+  },
+  "keywords": [
+    "angular",
+    "benchmarks"
+  ],
+  "contributors": [
+    {
+      "name": "Tobias Bosch",
+      "email": "tbosch@google.com",
+      "url": "https://angular.io/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angular/angular/issues"
+  },
+  "homepage": "https://github.com/angular/angular/tree/master/modules/@angular/compiler-cli",
+  "_id": "@christian-bromann/benchpress@2.0.0-rc.7alpha",
+  "scripts": {},
+  "_shasum": "844699abcaf8f8121fbab82a1f7d2b8d9eddfbfb",
+  "_from": "@christian-bromann/benchpress@2.0.0-rc.7alpha",
+  "_npmVersion": "3.8.3",
+  "_nodeVersion": "5.10.1",
+  "_npmUser": {
+    "name": "christian-bromann",
+    "email": "contact@christian-bromann.com"
+  },
+  "dist": {
+    "shasum": "844699abcaf8f8121fbab82a1f7d2b8d9eddfbfb",
+    "tarball": "https://registry.npmjs.org/@christian-bromann/benchpress/-/benchpress-2.0.0-rc.7alpha.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "christian-bromann",
+      "email": "contact@christian-bromann.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/benchpress-2.0.0-rc.7alpha.tgz_1473789600228_0.284023929387331"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/@christian-bromann/benchpress/-/benchpress-2.0.0-rc.7alpha.tgz",
+  "readme": "ERROR: No README data found!"
+}
